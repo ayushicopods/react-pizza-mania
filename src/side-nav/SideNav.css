@@ -1,0 +1,14 @@
+.sidenavHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sidenavHeader p {
+  color: #364fc7;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 26px;
+  padding-left: 10px;
+  font-family: "Gorditas";
+  font-style: normal;
+}
