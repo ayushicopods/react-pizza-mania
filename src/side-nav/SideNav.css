@@ -12,3 +12,32 @@
   font-family: "Gorditas";
   font-style: normal;
 }
+
+.itemContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  border-radius: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.itemContainer:hover {
+  background-color: #ebedf9;
+}
+
+.leftItemPanel {
+  display: flex;
+  align-items: center;
+}
+
+.leftItemPanel img {
+  margin-right: 5px;
+}
+
+.sidenavFooter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
